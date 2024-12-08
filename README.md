@@ -17,9 +17,9 @@ Dado la figura de la imagen, desarrolle:
 
 + Una función matemática para calcular el área y el perimetro.
 
-+Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r, a y b. 
++ Cree dos funciones en python para calcular los valores antes establecidos, al ingresar por teclado r, a y b. 
 
-+Revise como utilizar el valor de pi usando import math y math.pi 
++ Revise como utilizar el valor de pi usando import math y math.pi 
 
 
 ### 3. 
