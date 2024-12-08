@@ -1,4 +1,4 @@
-# Reto_5_fant-stico_y_-pico
+# Reto_5_fantastico_y_epico
 Resolución de los problemas planteados en la clase 9
 ## Reto
 Desarrolle la mayoría de ejercicios en clase. Para cada punto cree un programa individual. Al finalizar suba todo a un repo y subalo al canal reto_6 en slack.
